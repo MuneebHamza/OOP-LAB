@@ -1,0 +1,3 @@
+1,ahmed,Gold,19488.75
+2,sara,Gold,16927.625
+3,ali,None,2000

@@ -1,0 +1,3 @@
+1,"ahmed","Gold",15000
+2,"sara","Silver",8000;
+3,"ali","None",2000

@@ -1,0 +1,11 @@
+101,LEGO-Castle,Blocks,5+,1500,10
+102,Barbie-Doll,Doll,3+,1200,4
+103,RC-Car,Vehicle,8+,2500,2
+104,Puzzle-100,Puzzle,6+,800,15
+105,Action-Hero,Action,5+,950,5
+106,Teddy-Bear,Plush,0+,600,20
+107,Dinosaur-Set,Action,4+,1100,8
+108,Play-Kitchen,Pretend,3+,1800,6
+109,Nerf-Gun,Outdoor,8+,1350,4
+110,Chess-Board,Board,10+,700,12
+111,Rubik-Cube,Puzzle,7+,450,25
