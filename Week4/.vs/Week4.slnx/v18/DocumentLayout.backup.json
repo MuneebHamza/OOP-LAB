@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CC\\source\\repos\\Week4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\problem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\challenge4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\challenge4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\challenge3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\challenge3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\challenge2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\challenge2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\challenge1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\challenge1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\assessment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\assessment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\problemassessment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\problemassessment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\problem assessment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\problem assessment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|c:\\users\\cc\\source\\repos\\week4\\week4\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9465A4BC-1FD0-9F34-519F-38140076F229}|Week4\\Week4.csproj|solutionrelative:week4\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem1.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\problem1.cs",
+              "RelativeDocumentMoniker": "Week4\\problem1.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\problem1.cs",
+              "RelativeToolTip": "Week4\\problem1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:58:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "challenge4.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\challenge4.cs",
+              "RelativeDocumentMoniker": "Week4\\challenge4.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\challenge4.cs",
+              "RelativeToolTip": "Week4\\challenge4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:10:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "challenge3.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\challenge3.cs",
+              "RelativeDocumentMoniker": "Week4\\challenge3.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\challenge3.cs",
+              "RelativeToolTip": "Week4\\challenge3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:55:01.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "challenge2.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\challenge2.cs",
+              "RelativeDocumentMoniker": "Week4\\challenge2.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\challenge2.cs",
+              "RelativeToolTip": "Week4\\challenge2.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:59:51.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "challenge1.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\challenge1.cs",
+              "RelativeDocumentMoniker": "Week4\\challenge1.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\challenge1.cs",
+              "RelativeToolTip": "Week4\\challenge1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T18:41:36.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "problemassessment3.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\problemassessment3.cs",
+              "RelativeDocumentMoniker": "Week4\\problemassessment3.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\problemassessment3.cs",
+              "RelativeToolTip": "Week4\\problemassessment3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:36:08.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "problem assessment2.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\problem assessment2.cs",
+              "RelativeDocumentMoniker": "Week4\\problem assessment2.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\problem assessment2.cs",
+              "RelativeToolTip": "Week4\\problem assessment2.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:14:23.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "assessment.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\assessment.cs",
+              "RelativeDocumentMoniker": "Week4\\assessment.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\assessment.cs",
+              "RelativeToolTip": "Week4\\assessment.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:05:09.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "assessment1.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\assessment1.cs",
+              "RelativeDocumentMoniker": "Week4\\assessment1.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Week4\\Week4\\assessment1.cs",
+              "RelativeToolTip": "Week4\\assessment1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:24:28.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
