@@ -1,6 +1,5 @@
 101,LEGO-Castle,Blocks,5+,1500,10
 102,Barbie-Doll,Doll,3+,1200,4
-103,RC-Car,Vehicle,8+,2500,2
 104,Puzzle-100,Puzzle,6+,800,15
 105,Action-Hero,Action,5+,950,5
 106,Teddy-Bear,Plush,0+,600,20

@@ -1,4 +1,5 @@
-﻿using Layered_BP.Service;
+﻿using Layered_BP.Common;
+using Layered_BP.Service;
 using Layered_BP.Toy;
 using System;
 using System.Collections.Generic;
@@ -28,8 +29,8 @@ namespace Layered_BP.UI
             string cat = Console.ReadLine();
             Console.Write("Enter Age Group: ");
             string age = Console.ReadLine();
-            float price = inputhelper.ReadFloat("Enter Price: ");
-            int stock = inputhelper.ReadInt("Enter Stock: ");
+            float price = Inputhelper.ReadFloat("Enter Price: ");
+            int stock = Inputhelper.ReadInt("Enter Stock: ");
 
             toy toy = new toy(id, name, cat, age, price, stock);
             _toyService.AddToy(toy);
@@ -54,8 +55,8 @@ namespace Layered_BP.UI
             string cat = Console.ReadLine();
             Console.Write("Enter new Age Group: ");
             string age = Console.ReadLine();
-            float price = inputhelper.ReadFloat("Enter new Price: ");
-            int stock = inputhelper.ReadInt("Enter new Stock: ");
+            float price = Inputhelper.ReadFloat("Enter new Price: ");
+            int stock = Inputhelper.ReadInt("Enter new Stock: ");
 
             _toyService.UpdateToy(toy, name, cat, age, price, stock);
             Console.WriteLine("Updated successfully!");
@@ -88,7 +89,7 @@ namespace Layered_BP.UI
                 return;
             }
             Console.WriteLine("Current stock: " + toy.Stock);
-            int qty = inputhelper.ReadInt("Enter quantity to add: ");
+            int qty = Inputhelper.ReadInt("Enter quantity to add: ");
             _toyService.RestockToy(toy, qty);
             Console.WriteLine("New stock: " + toy.Stock);
         }
@@ -101,7 +102,9 @@ namespace Layered_BP.UI
             foreach (toy t in sorted)
             {
                 if (t.ToyName != "")
+                {
                     Console.WriteLine(t.ToyName + "\t\t" + t.Category + "\t\t" + t.Price + "\t" + t.Stock);
+                }
             }
         }
 
@@ -114,7 +117,9 @@ namespace Layered_BP.UI
             foreach (toy t in _toyService.GetAllToys())
             {
                 if (t.ToyName != "")
+                {
                     Console.WriteLine(t.ToyID + "\t" + t.ToyName + "\t\t" + t.Category + "\t\t" + t.AgeGroup + "\t" + t.Price + "\t" + t.Stock);
+                }
             }
         }
 

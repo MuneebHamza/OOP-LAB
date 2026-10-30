@@ -20,8 +20,7 @@ namespace Layered_BP.Service
         {
             foreach (toy t in toys)
             {
-                if (t.ToyName == name && t.ToyName != "")
-                    return t;
+                if (t.ToyName == name && t.ToyName != "") { return t; }    
             }
             return null;
         }

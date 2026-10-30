@@ -1,5 +1,6 @@
 ﻿using Layered_BP;
 using Layered_BP.CartI;
+using Layered_BP.Common;
 using Layered_BP.PurchaseHistory;
 using Layered_BP.Sales;
 using Layered_BP.Service;
@@ -52,7 +53,7 @@ namespace Layered_BP.UI
                 return;
             }
             Console.WriteLine("Price: Rs." + toy.Price + "\t Stock available: " + toy.Stock);
-            int quantity = inputhelper.ReadInt("Enter quantity: ");
+            int quantity = Inputhelper.ReadInt("Enter quantity: ");
             if (quantity <= 0)
             {
                 Console.WriteLine("Invalid quantity.");
@@ -106,7 +107,7 @@ namespace Layered_BP.UI
                 Console.WriteLine((i + 1) + "\t" + _cart[i].t.ToyName + "\t\t" + _cart[i].Quantity + "\t" + _cart[i].t.Price + "\t" + sub);
             }
             Console.WriteLine("Cart Total: Rs." + carttotal);
-            int removenum = inputhelper.ReadInt("Enter item number to remove (0 to keep all): ");
+            int removenum = Inputhelper.ReadInt("Enter item number to remove (0 to keep all): ");
             if (removenum > 0 && removenum <= _cart.Count)
             {
                 _cart.RemoveAt(removenum - 1);
