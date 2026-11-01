@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\ui\\toyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\ui\\toyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\service\\toyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\service\\toyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\repository\\historyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\repository\\historyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\ui\\cartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\ui\\cartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\ui\\toyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\ui\\toyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\service\\toyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\service\\toyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\repository\\toyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\service\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\service\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|solutionrelative:layered bp\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7409A2D5-6BA0-F777-410F-1DF8DFACA19F}|Layered BP\\Layered BP.csproj|c:\\users\\cc\\source\\repos\\layered bp\\layered bp\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,37 +102,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ToyService.cs",
               "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Service\\ToyService.cs",
               "RelativeDocumentMoniker": "Layered BP\\Service\\ToyService.cs",
               "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Service\\ToyService.cs",
               "RelativeToolTip": "Layered BP\\Service\\ToyService.cs",
-              "ViewState": "AgIAAEEAAAAgY2ZmZmYzwFgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T21:08:23.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T21:08:23.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ToyUI.cs",
               "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\UI\\ToyUI.cs",
               "RelativeDocumentMoniker": "Layered BP\\UI\\ToyUI.cs",
               "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\UI\\ToyUI.cs",
               "RelativeToolTip": "Layered BP\\UI\\ToyUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T21:03:26.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T21:03:26.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UserUI.cs",
               "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\UI\\UserUI.cs",
               "RelativeDocumentMoniker": "Layered BP\\UI\\UserUI.cs",
@@ -140,38 +138,11 @@
               "RelativeToolTip": "Layered BP\\UI\\UserUI.cs",
               "ViewState": "AgIAALoAAAAAAAAAAAA7wMgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T21:41:24.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T21:41:24.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartUI.cs",
-              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\UI\\CartUI.cs",
-              "RelativeDocumentMoniker": "Layered BP\\UI\\CartUI.cs",
-              "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\UI\\CartUI.cs",
-              "RelativeToolTip": "Layered BP\\UI\\CartUI.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAqwH0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T21:33:42.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HistoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Repository\\HistoryRepository.cs",
-              "RelativeDocumentMoniker": "Layered BP\\Repository\\HistoryRepository.cs",
-              "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Repository\\HistoryRepository.cs",
-              "RelativeToolTip": "Layered BP\\Repository\\HistoryRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T22:22:01.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "HistoryModel.cs",
               "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Model\\HistoryModel.cs",
               "RelativeDocumentMoniker": "Layered BP\\Model\\HistoryModel.cs",
@@ -179,8 +150,7 @@
               "RelativeToolTip": "Layered BP\\Model\\HistoryModel.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T22:05:48.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T22:05:48.755Z"
             },
             {
               "$type": "Document",
@@ -190,14 +160,14 @@
               "RelativeDocumentMoniker": "Layered BP\\Program.cs",
               "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Program.cs",
               "RelativeToolTip": "Layered BP\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwB8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywBwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T18:43:06.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ToyRepository.cs",
               "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Repository\\ToyRepository.cs",
               "RelativeDocumentMoniker": "Layered BP\\Repository\\ToyRepository.cs",
@@ -205,12 +175,47 @@
               "RelativeToolTip": "Layered BP\\Repository\\ToyRepository.cs",
               "ViewState": "AgIAACkAAADAZGZmZmYxwEIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T21:35:39.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T21:35:39.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Service\\CartService.cs",
+              "RelativeDocumentMoniker": "Layered BP\\Service\\CartService.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Service\\CartService.cs",
+              "RelativeToolTip": "Layered BP\\Service\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T21:01:19.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Repository\\HistoryRepository.cs",
+              "RelativeDocumentMoniker": "Layered BP\\Repository\\HistoryRepository.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Repository\\HistoryRepository.cs",
+              "RelativeToolTip": "Layered BP\\Repository\\HistoryRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T22:22:01.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartUI.cs",
+              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\UI\\CartUI.cs",
+              "RelativeDocumentMoniker": "Layered BP\\UI\\CartUI.cs",
+              "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\UI\\CartUI.cs",
+              "RelativeToolTip": "Layered BP\\UI\\CartUI.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T21:33:42.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ToyModel.cs",
               "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Model\\ToyModel.cs",
               "RelativeDocumentMoniker": "Layered BP\\Model\\ToyModel.cs",
@@ -218,12 +223,11 @@
               "RelativeToolTip": "Layered BP\\Model\\ToyModel.cs",
               "ViewState": "AgIAAAgAAABAZWZmZmYkwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T21:04:56.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T21:04:56.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "inputhelper.cs",
               "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Common\\inputhelper.cs",
               "RelativeDocumentMoniker": "Layered BP\\Common\\inputhelper.cs",
@@ -231,12 +235,11 @@
               "RelativeToolTip": "Layered BP\\Common\\inputhelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T21:15:22.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-22T21:15:22.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HistoryService.cs",
               "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Service\\HistoryService.cs",
               "RelativeDocumentMoniker": "Layered BP\\Service\\HistoryService.cs",
@@ -269,18 +272,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-22T20:05:56.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Service\\CartService.cs",
-              "RelativeDocumentMoniker": "Layered BP\\Service\\CartService.cs",
-              "ToolTip": "C:\\Users\\CC\\source\\repos\\Layered BP\\Layered BP\\Service\\CartService.cs",
-              "RelativeToolTip": "Layered BP\\Service\\CartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T21:01:19.249Z"
             },
             {
               "$type": "Document",
